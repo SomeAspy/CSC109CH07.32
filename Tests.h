@@ -1,7 +1,7 @@
-#define TEMPLATE_TESTS_H
+#define CSC109CH07_32_TESTS_H
 #include <cxxtest/TestSuite.h>
 
-#include "Classes.h"
+#include "Car.h"
 
 class newCxxTest : public CxxTest::TestSuite
 {
